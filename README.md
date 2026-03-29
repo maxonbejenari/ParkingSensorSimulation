@@ -13,7 +13,8 @@ A mechatronic prototype that bridges low-level sensing with a high-level Python 
 The system uses a **CH340-based microcontroller** to interface with an **HC-SR04** sensor. 
 
 ### Wiring Diagram
-![Wiring Diagram](<img width="794" height="632" alt="Screenshot from 2026-03-28 11-34-43" src="https://github.com/user-attachments/assets/40916281-47e7-488f-bca0-e6d70ca34fdd" />)
+![Wiring Diagram]<img width="794" height="632" alt="Screenshot from 2026-03-28 11-34-43" src="https://github.com/user-attachments/assets/0739d6c5-af2a-43b2-8792-c04557fe97fe" />
+
 
 | Component | Sensor Pin | Microcontroller Pin | Function |
 | :--- | :--- | :--- | :--- |
