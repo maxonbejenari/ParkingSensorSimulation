@@ -5,7 +5,7 @@ A mechatronic prototype that bridges low-level sensing with a high-level Python 
 ---
 
 ##  Project Demonstration
-![Parking System Demo](https://youtu.be/jHUYzgg3ygQ) 
+(https://youtu.be/jHUYzgg3ygQ)
 
 ---
 
