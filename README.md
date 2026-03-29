@@ -4,12 +4,12 @@ A mechatronic prototype that bridges low-level sensing with a high-level Python 
 
 ---
 
-## 📺 Project Demonstration
+##  Project Demonstration
 ![Parking System Demo](https://youtu.be/jHUYzgg3ygQ) 
 
 ---
 
-## 🛠 Hardware Architecture & Wiring
+##  Hardware Architecture & Wiring
 The system uses a **CH340-based microcontroller** to interface with an **HC-SR04** sensor. 
 
 ### Wiring Diagram
